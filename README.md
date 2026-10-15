@@ -138,7 +138,11 @@ Gosto de aprender colocando a mão na massa. Por isso, utilizo projetos prático
 
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lipecs0&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Atividade%20de%20Desenvolvimento" alt="Gráfico de atividade do GitHub"/>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lipecs0&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub"
+    alt="Gráfico de atividade de Felipe Souza no GitHub"
+  />
 
 </div>
 
@@ -148,7 +152,13 @@ Gosto de aprender colocando a mão na massa. Por isso, utilizo projetos prático
 
 <div align="center">
 
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Lipecs0&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="Troféus do GitHub"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      width="100%"
+      src="https://github-profile-trophy.vercel.app/?username=Lipecs0&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12"
+      alt="Troféus do GitHub de Felipe Souza"
+    />
+  </a>
 
 </div>
 
